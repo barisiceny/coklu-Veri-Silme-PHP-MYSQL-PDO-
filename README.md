@@ -1,1 +1,1 @@
-# -oklu-Veri-Silme-PHP-MYSQL-PDO-
+# coklu-Veri-Silme-PHP-MYSQL-PDO-
